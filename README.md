@@ -1,2 +1,1 @@
-My implementation of GPT2-160M from scratch for a simple dataset.
-For full code, scroll to the end
+My implementation of GPT2-160M and fine-tuning it from scratch. 
